@@ -1,3 +1,3 @@
 # lab6_repository
-#THIS IS A CHANGE
+# This is a change made remotely on GitHub.
 
